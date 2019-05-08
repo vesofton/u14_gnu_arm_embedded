@@ -6,7 +6,7 @@
 # Date     : 03-05-2019, 09:38
 # Version  : 1.0
 
-IMAGE_NAME=henbro12/u14_gnu_arm_embedded
+IMAGE_NAME=vesofton/u14_gnu_arm_embedded
 
 createDockerImage() {
   if [ "$IS_GIT_TAG" = true ]; then
