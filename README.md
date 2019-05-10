@@ -5,10 +5,10 @@ This repository is automatically build into an image on the Docker Hub.
 <a href="https://hub.docker.com/r/vesofton/u14_gnu_arm_embedded/" target="_blank"> <img src="https://www.docker.com/sites/default/files/legal/small_h.png" alt="docker"/> </a>
 
 ## Build status
-| Branch  | Status                                                                                              |
-| ------- | --------------------------------------------------------------------------------------------------- |
-| Master  | [![Run Status](https://api.shippable.com/projects/5cd2dceab42e400007bd5408/badge?branch=master)]()  |
-| Develop |                                                                                                     |
+| Branch  | Status                                                                                                                                                                      |
+| ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Master  | [![Run Status](https://api.shippable.com/projects/5cd2dceab42e400007bd5408/badge?branch=master)](https://app.shippable.com/github/vesofton/u14_gnu_arm_embedded/dashboard)  |
+| Develop | [![Run Status](https://api.shippable.com/projects/5cd2dceab42e400007bd5408/badge?branch=develop)](https://app.shippable.com/github/vesofton/u14_gnu_arm_embedded/dashboard) |
 
 ## Docker tags
 - Releases of this image result in Docker Hub images with the `release-<GitHub release tag>` tag.
